@@ -1,2 +1,2 @@
 # Js-todo-list
-Javasript todo list
+This is my first Javascript project, it is mostly from following a creative Javascript course on https://developedbyed.com/, there are some changes I have made however, I decided to make a custom filter, since styling html select boxes doesn't have too many options I followed a blog post describing how to create a custom select box out of spans and divs. I like this a significant amount more than default select boxes.  
